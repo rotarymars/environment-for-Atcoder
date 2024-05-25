@@ -32,6 +32,10 @@ Run the code below to get the [online-judge-tools](https://github.com/online-jud
 ```bash
 pip3 install git+https://github.com/online-judge-tools/oj.git
 ```
+or do
+```bash
+python -m pip install git+https://github.com/online-judge-tools/oj.git
+```
 Login to the installed package by entering your username and passowrd for Atcoder in the prompt
 ```
 oj l https://atcoder.jp/contests/agc001_a
