@@ -32,6 +32,11 @@ scoop install vscode
 ```bash
 pip3 install git+https://github.com/online-judge-tools/oj.git
 ```
+または
+```bash
+python -m pip install git+https://github.com/online-judge-tools/oj.git
+```
+を実行する<br>
 Atcoderのユーザー名とパスワードを入れてログインする
 ```
 oj l https://atcoder.jp/contests/agc001_a
