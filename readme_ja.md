@@ -74,3 +74,5 @@ _DEBUGをデファインしてコンパイルし、テストする
 ```bash
 make test
 ```
+指定したurlからサンプルを取り、提出する<br>
+oj_settings.jsonのurlを編集

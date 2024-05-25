@@ -73,3 +73,5 @@ compile with definition of _DEBUG and test
 ```bash
 make test
 ```
+download and submit from the designated url<br>
+In oj_settings.json, put the url.
