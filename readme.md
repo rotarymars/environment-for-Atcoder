@@ -71,11 +71,11 @@ It will submit your code(main.cpp) if the samples are all correct.
 # Other features
 download test case(s)
 ```bash
-make download
+make test
 ```
 compile with definition of _DEBUG and test
 ```bash
-make test
+make debugtest
 ```
 download and submit from the designated url<br>
 In oj_settings.json, put the url.

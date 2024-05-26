@@ -73,11 +73,11 @@ make all
 # その他の機能
 サンプルのダウンロードのみ
 ```bash
-make download
+make test
 ```
 _DEBUGをデファインしてコンパイルし、テストする
 ```bash
-make test
+make debugtest
 ```
 指定したurlからサンプルを取り、提出するには、<br>
 oj_settings.jsonのurlを入れることで、できる
