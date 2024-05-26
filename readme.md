@@ -79,3 +79,8 @@ make test
 ```
 download and submit from the designated url<br>
 In oj_settings.json, put the url.
+<br><br>
+If you want to submit your code, run
+```bash
+make submit
+```

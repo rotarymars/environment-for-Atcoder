@@ -13,3 +13,5 @@ $(BIN): $(SOURCE_FILE)
 	g++ -std=gnu++23 -o "a.exe" $(SOURCE_FILE)
 $(SAMPLE_PATH):
 	python ../oj_helper.py d
+submit: $(SOURCE_FILE)
+	python ../oj_helper.py s $(SOURCE_FILE)
